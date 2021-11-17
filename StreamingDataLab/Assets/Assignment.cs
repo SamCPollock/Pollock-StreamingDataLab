@@ -235,8 +235,18 @@ static public class AssignmentPart2
 #endregion
 
 
+// **Party Trading Feature Task List**
+/*
+Copy server code
+UI Creation 
 
 
+
+*/
+
+
+
+#region old version, for posterity.
 /* RESULTS FROM FOLLOWING ALONG
 using System.Collections;
 using System.Collections.Generic;
@@ -345,3 +355,4 @@ public static class ServerToClientSignifiers
 }
 
 */
+#endregion
